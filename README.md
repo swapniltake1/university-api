@@ -1,19 +1,10 @@
-```markdown
+
 # University Management System - A Spring Boot API | Spring DATA REST 
 
 Welcome to the University Management System repository!
-This project is built using Spring Boot and provides functionality for managing students, departments, and courses in a university setting.
+This project is built using Spring Boot and provides functionality for managing
+students, departments, and courses in a university setting.
 
-## Table of Contents
-
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Endpoints](#endpoints)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
