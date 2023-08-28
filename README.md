@@ -8,10 +8,10 @@ students, departments, and courses in a university setting.
 
 ## Features
 
-- CRUD operations for students, departments, and courses
-- RESTful API for interacting with the system
-- Easy-to-use Spring Boot application structure
-- Integration with H2 in-memory database
+- CRUD operations for students, departments, and courses.
+- RESTful API for interacting with the system.
+- Easy-to-use Spring Boot application structure.
+- Integration with H2 in-memory database & MySQL Database.
 
 ## Getting Started
 
