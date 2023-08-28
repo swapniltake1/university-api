@@ -1,7 +1,8 @@
 ```markdown
 # University Management System - A Spring Boot API | Spring DATA REST 
 
-Welcome to the University Management System repository! This project is built using Spring Boot and provides functionality for managing students, departments, and courses in a university setting.
+Welcome to the University Management System repository!
+This project is built using Spring Boot and provides functionality for managing students, departments, and courses in a university setting.
 
 ## Table of Contents
 
@@ -32,8 +33,8 @@ Welcome to the University Management System repository! This project is built us
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/university-management-system.git
-   cd university-management-system
+   git clone https://github.com/swapniltake1/university-api.git
+   cd university-api
    ```
 
 2. Build the project:
@@ -76,4 +77,4 @@ Contributions to this project are welcome! If you find a bug or want to add a ne
 This project is licensed under the [MIT License](LICENSE).
 ```
 
-Remember to replace placeholders such as `yourusername`, `university-management-system`, and URLs with your actual repository information. You can also customize the sections, content, and formatting to better suit your project's specific needs.
+Remember to replace placeholders such as `swapniltake1`, `university-api`, and URLs with your actual repository information. You can also customize the sections, content, and formatting to better suit your project's specific needs.
